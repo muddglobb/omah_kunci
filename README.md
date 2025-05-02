@@ -1,5 +1,5 @@
 # OTI Internship Month Kelompok 6: Omah Kunci
-## Team structure:
+## Team structure
 Project Manager	: Satya Wira Pramudita
 
 Client			: Resource Manager Division
@@ -17,7 +17,7 @@ Client			: Resource Manager Division
 5. Hafidz Kurniawan Nahruntoko (UI Designer)
 
 
-##Deployment
+## Deployment
 **Website**: https://omah-kunci.vercel.app/
 
 **Mobile app**, download the .apk file on link below:
